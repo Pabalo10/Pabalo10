@@ -1,5 +1,13 @@
 ## Hi there 👋
+#### My name is Pablo Alonso and I’m from Spain.
 
+- 🌱 I’m currently learning Data and AI engineering at the Complutense University of Madrid.
+
+- 🔭 I love to work in neuronal networks projects and in image classification.
+
+- 💬 Ask me about anything you want, hope to help you.
+
+## Bye 👋👋
 <!--
 **Pabalo10/Pabalo10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
