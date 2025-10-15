@@ -1,0 +1,19 @@
+# Resumen rápido de Git/GitHub
+
+## Lo que sé hacer 
+- Crear repositorios y conectarlos a GitHub.
+- Hacer commits claros y frecuentes.
+- Subir (`push`) y bajar (`pull`) cambios.
+- Crear documentación y tablas en Markdown.
+- Usar `.gitignore`.
+
+## Lo que me cuesta 
+- Entender y manejar **branches**: cuándo crear, cómo actualizar y unir ramas.
+- Resolver conflictos complejos.
+- Flujos de trabajo con **pull requests**.
+
+## Próximos pasos 
+- Practicar ramas en repositorios de prueba.
+- Aprender bien **merge**, **rebase** y pull requests.
+- Mejorar resolución de conflictos y sincronización entre ramas.
+
