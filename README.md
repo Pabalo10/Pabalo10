@@ -34,6 +34,9 @@ A continuación destaco mis principales desarrollos, estructurados según mis á
 *   **[Arquitectura Transformer desde cero](https://github.com/Pabalo10/pytorch-transformer-from-scratch)** (2025 - 2026)
     *   **Tecnologías:** PyTorch, Deep Learning.
     *   **Descripción:** Implementación *from scratch* de una arquitectura Transformer para el entrenamiento de modelos de lenguaje causal y Named Entity Recognition (NER).
+*   **[Predicción de Mercados Financieros y Criptomonedas (2024 - 2025)](https://github.com/Pabalo10/EL_NOMBRE_QUE_ELIJAS)**
+    *   **Tecnologías:** Python, Pandas, Scikit-Learn, Time Series Forecasting.
+    *   **Descripción:** Desarrollo de un pipeline de tratamiento de datos combinando métricas de mercados bursátiles, índices de grandes empresas tecnológicas y criptomonedas. Implementación y evaluación de múltiples modelos de predicción orientados a estimar las fluctuaciones de precio de Bitcoin.
 *   **[Asistente Virtual con RAG Local](https://github.com/Pabalo10/local-rag-assistant)** (2023 - 2024)
     *   **Tecnologías:** Python, Llama 3.2, RAG.
     *   **Descripción:** Asistente conversacional por CLI ejecutado 100% en local. Integra extracción de entidades y refinamiento de respuestas mediante técnicas de *chain-of-thought*.
