@@ -28,15 +28,15 @@ A continuación destaco mis principales desarrollos, estructurados según mis á
 *   **[Análisis y Predicción de Movilidad Urbana en NYC (2025 - 2026)](https://github.com/Pabalo10/nyc-mobility-analysis)**
     *   **Tecnologías:** Python, Parquet, Random Forest, Folium, Plotly.
     *   **Descripción:** Pipeline completo para el procesamiento, limpieza y unificación de datos masivos de movilidad urbana (Taxis, Uber, clima, eventos). Incluye modelado predictivo de demanda e ingresos y el despliegue de dashboards interactivos mediante mapas espaciales.
+*   **[Predicción de Mercados Financieros y Criptomonedas](https://github.com/Pabalo10/bitcoin-price-forecasting)** (2024 - 2025)
+    *   **Tecnologías:** Python, Pandas, Scikit-Learn, Time Series Forecasting.
+    *   **Descripción:** Desarrollo de un pipeline de tratamiento de datos combinando métricas de mercados bursátiles, índices de grandes empresas tecnológicas y criptomonedas. Implementación y evaluación de múltiples modelos de predicción orientados a estimar las fluctuaciones de precio de Bitcoin.
 
 ### 🧠 Procesamiento de Lenguaje Natural (PLN)
 
 *   **[Arquitectura Transformer desde cero](https://github.com/Pabalo10/pytorch-transformer-from-scratch)** (2025 - 2026)
     *   **Tecnologías:** PyTorch, Deep Learning.
     *   **Descripción:** Implementación *from scratch* de una arquitectura Transformer para el entrenamiento de modelos de lenguaje causal y Named Entity Recognition (NER).
-*   **[Predicción de Mercados Financieros y Criptomonedas](https://github.com/Pabalo10/bitcoin-price-forecasting)** (2024 - 2025)
-    *   **Tecnologías:** Python, Pandas, Scikit-Learn, Time Series Forecasting.
-    *   **Descripción:** Desarrollo de un pipeline de tratamiento de datos combinando métricas de mercados bursátiles, índices de grandes empresas tecnológicas y criptomonedas. Implementación y evaluación de múltiples modelos de predicción orientados a estimar las fluctuaciones de precio de Bitcoin.
 *   **[Asistente Virtual con RAG Local](https://github.com/Pabalo10/local-rag-assistant)** (2023 - 2024)
     *   **Tecnologías:** Python, Llama 3.2, RAG.
     *   **Descripción:** Asistente conversacional por CLI ejecutado 100% en local. Integra extracción de entidades y refinamiento de respuestas mediante técnicas de *chain-of-thought*.
@@ -46,6 +46,12 @@ A continuación destaco mis principales desarrollos, estructurados según mis á
 *   **[Agente Autónomo de Negociación](https://github.com/Pabalo10/autonomous-negotiation-agent)** (2025 - 2026)
     *   **Tecnologías:** Ollama, Llama/Qwen.
     *   **Descripción:** Agente de trading automatizado que emplea LLMs en local para la toma de decisiones lógicas de negociación.
+
+### 📋 Gestión de Proyectos y Ética en IA
+
+*   **[ISA-Home: Asistente Doméstico Inteligente](https://github.com/Pabalo10/isa-home-project)** (2025 - 2026)
+    *   **Rol:** Scrum Master.
+    *   **Descripción:** Proyecto académico de diseño de producto y consultoría ética para un sistema robótico humanoide. La documentación incluye la estructuración mediante metodologías ágiles (Scrum), diseño de *Model Cards*, estándares de comunidad y análisis de modelo de negocio bajo el marco normativo de la Inteligencia Artificial.
 
 ---
 *💬 "Feel free to ask me about anything; I’d be happy to help!"*
