@@ -49,6 +49,9 @@ A continuación destaco mis principales desarrollos, estructurados según mis á
 
 ### 📋 Gestión de Proyectos y Ética en IA
 
+*   **[Desarrollo de Videojuego Multijugador (Cliente-Servidor)](https://github.com/Pabalo10/java-multiplayer-board-game)** (2023 - 2024)
+    *   **Tecnologías:** Java, JavaFX, Sockets (Thread/Concurrency), Patrones de Diseño.
+    *   **Descripción:** Desarrollo colaborativo de un motor de juego avanzado ("4 en raya" con 4 modos diferentes y niveles de IA). Implementación de arquitectura cliente-servidor para partidas online y desarrollo de interfaz gráfica. Gestión completa del ciclo de vida del software mediante metodología ágil (Scrum).
 *   **[ISA-Home: Asistente Doméstico Inteligente](https://github.com/Pabalo10/isa-home-project)** (2025 - 2026)
     *   **Rol:** Scrum Master.
     *   **Descripción:** Proyecto académico de diseño de producto y consultoría ética para un sistema robótico humanoide. La documentación incluye la estructuración mediante metodologías ágiles (Scrum), diseño de *Model Cards*, estándares de comunidad y análisis de modelo de negocio bajo el marco normativo de la Inteligencia Artificial.
