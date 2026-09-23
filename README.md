@@ -1,7 +1,7 @@
 ## Hi there 👋
 #### I’m Pablo Alonso from Spain.
 
-- 🌱 I’m currently in my 4th year studying **Data and AI Engineering** at the Complutense University of Madrid.  
+- 🌱 **Data and AI Engineering** at the Complutense University of Madrid.  
 
 - 🔭 I’m passionate about **neural networks, image classification, graphs, and teamwork projects**.  
 
